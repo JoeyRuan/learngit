@@ -11,3 +11,4 @@ Add a stash.
 
 Add a tag.
 
+Now add a tag with explain.
