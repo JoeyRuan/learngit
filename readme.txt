@@ -7,5 +7,7 @@ Add a test.
 
 Git is a free software......
 
-add a stash
+Add a stash.
+
+Add a tag.
 
